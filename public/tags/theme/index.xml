@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theme on My New Hugo Site</title>
-    <link>https://example.org/tags/theme/</link>
-    <description>Recent content in Theme on My New Hugo Site</description>
+    <title>Theme on My Ananke Website</title>
+    <link>https://gitana19.github.io/my-ananke-project/tags/theme/</link>
+    <description>Recent content in Theme on My Ananke Website</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gitana19.github.io/my-ananke-project/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting to Know the Ananke Theme</title>
-      <link>https://example.org/posts/explore-ananke/</link>
+      <link>https://gitana19.github.io/my-ananke-project/posts/explore-ananke/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/explore-ananke/</guid>
+      <guid>https://gitana19.github.io/my-ananke-project/posts/explore-ananke/</guid>
       <description>&lt;h2 id=&#34;what-is-ananke&#34;&gt;What is Ananke?&lt;/h2&gt;&#xA;&lt;p&gt;Ananke is a popular theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, designed to be fast, flexible, and easy to use. It supports a beautiful hero image, post listing grid, and is responsive by default.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ananke-theme.netlify.app/&#34;&gt;Ananke Theme Demo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/theNewDynamic/gohugo-theme-ananke#configuration&#34;&gt;Theme Configuration Options&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-customize&#34;&gt;How to Customize&lt;/h3&gt;&#xA;&lt;p&gt;Edit the &lt;code&gt;[params]&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt; file to change the hero image, subtitle, colors, and more!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;hero_image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/my-ananke-project/images/hero.jpg&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;hero_subtitle&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Learning Hugo the Fun Way!&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;p&gt;Want to tweak the homepage and card layouts?&lt;br&gt;&#xA;Explore the theme’s example site in the repo:&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite&#34;&gt;https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

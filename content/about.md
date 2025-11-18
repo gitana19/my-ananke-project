@@ -12,3 +12,5 @@ You’ll find posts about using Hugo, learning Markdown, and exploring the Anank
 ---
 
 Feel free to explore the menu for more info!
+
+Small update!
