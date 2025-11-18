@@ -1,5 +1,6 @@
 +++
 title = "Getting to Know the Ananke Theme"
+hero_image = "/my-ananke-project/images/my_other_banner.png"
 date = 2025-11-18
 tags = ["hugo", "theme", "ananke"]
 categories = ["tutorial"]

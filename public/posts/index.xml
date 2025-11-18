@@ -13,7 +13,7 @@
       <link>https://gitana19.github.io/my-ananke-project/posts/first-post/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://gitana19.github.io/my-ananke-project/posts/first-post/</guid>
-      <description>&lt;p&gt;Here’s my first post.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here’s my first post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://gitana19.github.io/my-ananke-project/images/sky_quad.png&#34; alt=&#34;some quad sky image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting to Know the Ananke Theme</title>
