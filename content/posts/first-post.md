@@ -6,4 +6,4 @@ categories = ["blog"]
 +++
 Here’s my first post.
 
-![some quad sky image](/images/sky_quad.png)
+![some quad sky image](/my-ananke-project/images/sky_quad.png)
