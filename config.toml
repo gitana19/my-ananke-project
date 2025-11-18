@@ -1,0 +1,28 @@
+baseURL = "https://gitana19.github.io/my-ananke-project/"
+title = "My Ananke Website"
+theme = "ananke"
+
+[params]
+  hero_image = "/my-ananke-project/images/sky_banner.png"  # Use your image; see notes below
+  hero_subtitle = "My Ananke Subtitle: Learn Hugo and Ananke Step by Step"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Hugo"
+    url = "/posts/hugo-introduction/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Markdown"
+    url = "/posts/markdown-basics/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Ananke"
+    url = "/posts/explore-ananke/"
+    weight = 4
