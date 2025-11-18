@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Writing on My Ananke Website</title><link>https://gitana19.github.io/my-ananke-project/tags/writing/</link><description>Recent content in Writing on My Ananke Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gitana19.github.io/my-ananke-project/tags/writing/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Basics for Hugo</title><link>https://gitana19.github.io/my-ananke-project/posts/markdown-basics/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://gitana19.github.io/my-ananke-project/posts/markdown-basics/</guid><description>&lt;h2 id="what-is-markdown"&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a simple, readable markup language that’s perfect for creating content for Hugo.&lt;/p&gt;
+&lt;h3 id="basic-syntax"&gt;Basic Syntax&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headers:&lt;/strong&gt;&lt;br&gt;
+&lt;code&gt;# Big Title&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;## Section&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold/Italics:&lt;/strong&gt;&lt;br&gt;
+&lt;code&gt;**bold**&lt;/code&gt;, &lt;code&gt;*italic*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists:&lt;/strong&gt;&lt;br&gt;
+&lt;code&gt;- Bullet item&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;br&gt;
+&lt;code&gt;[Hugo Docs](https://gohugo.io/documentation/)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Images:&lt;/strong&gt;&lt;br&gt;
+&lt;code&gt;![Example](/my-ananke-project/images/example.jpg)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="try-it-yourself"&gt;Try it Yourself!&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;## My Section Title
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Here&amp;#39;s some descriptive text about Hugo and Ananke!
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;-&lt;/span&gt; Fast setup
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;-&lt;/span&gt; Simple Markdown writing
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[&lt;span style="color:#f92672"&gt;Learn more&lt;/span&gt;](&lt;span style="color:#a6e22e"&gt;https://commonmark.org/help/&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;p&gt;Want more? &lt;a href="https://www.markdownguide.org/basic-syntax/"&gt;Markdown Guide&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
