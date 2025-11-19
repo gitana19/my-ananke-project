@@ -5,6 +5,7 @@ theme = "ananke"
 [params]
   hero_image = "/images/sky_banner.png"  # Use your image; see notes below
   hero_subtitle = "My Ananke Subtitle: Learn Hugo and Ananke Step by Step"
+  cover_dimming_class = "bg-black-30"   # 30% overlay
 
 [menu]
   [[menu.main]]
