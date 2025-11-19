@@ -3,7 +3,16 @@
 &lt;p&gt;You’ll find posts about using Hugo, learning Markdown, and exploring the Ananke theme.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Feel free to explore the menu for more info!&lt;/p&gt;
-&lt;p&gt;Small update!&lt;/p&gt;</description></item><item><title>First Post</title><link>https://gitana19.github.io/my-ananke-project/posts/first-post/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://gitana19.github.io/my-ananke-project/posts/first-post/</guid><description>&lt;p&gt;Here’s my first post.&lt;/p&gt;
+&lt;p&gt;Small update!&lt;/p&gt;</description></item><item><title>First Post</title><link>https://gitana19.github.io/my-ananke-project/posts/first-post/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://gitana19.github.io/my-ananke-project/posts/first-post/</guid><description>&lt;p&gt;Here’s my first post.
+Now I want to change something here to see if the &lt;strong&gt;&amp;ldquo;hard reset&amp;rdquo;&lt;/strong&gt; of the local branch to match the remote has gone well.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-toml" data-lang="toml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;git&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;fetch&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;origin&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;git&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;reset&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;--hard&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;origin&lt;/span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;/&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;(&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;optional&lt;/span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;)&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;git&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;clean&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;-fd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;git clean -fd&lt;/strong&gt; removes all untracked files and directories from your working directory.&lt;/li&gt;
+&lt;li&gt;The listed folders (assets/, data/, i18n/, layouts/) were &lt;strong&gt;not tracked by git&lt;/strong&gt; (i.e., not part of any commit).&lt;/li&gt;
+&lt;li&gt;After this, those folders are &lt;strong&gt;deleted locally&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img src="https://gitana19.github.io/my-ananke-project/images/sky_quad.png" alt="some quad sky image"&gt;&lt;/p&gt;</description></item><item><title>Getting to Know the Ananke Theme</title><link>https://gitana19.github.io/my-ananke-project/posts/explore-ananke/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://gitana19.github.io/my-ananke-project/posts/explore-ananke/</guid><description>&lt;h2 id="what-is-ananke"&gt;What is Ananke?&lt;/h2&gt;
 &lt;p&gt;Ananke is a popular theme for &lt;a href="https://gohugo.io"&gt;Hugo&lt;/a&gt;, designed to be fast, flexible, and easy to use. It supports a beautiful hero image, post listing grid, and is responsive by default.&lt;/p&gt;
 &lt;ul&gt;
