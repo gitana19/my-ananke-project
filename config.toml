@@ -3,7 +3,7 @@ title = "My Ananke Website"
 theme = "ananke"
 
 [params]
-  hero_image = "/my-ananke-project/images/sky_banner.png"  # Use your image; see notes below
+  # hero_image = "/my-ananke-project/images/sky_banner.png"  # Use your image; see notes below
   hero_subtitle = "My Ananke Subtitle: Learn Hugo and Ananke Step by Step"
 
 [menu]
