@@ -18,3 +18,4 @@ git reset --hard origin/main
 - After this, those folders are **deleted locally**.
 
 ![some quad sky image](/my-ananke-project/images/sky_quad.png)
+![dino quad image](/images/dino_quad_small.png)
